@@ -1,5 +1,5 @@
 package com.hoo.mapper;
 
-public class SqlMapper {
+public interface SqlMapper {
 
 }
